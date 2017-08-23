@@ -21,8 +21,8 @@ Projeto desenvolvido como exemplo pelo time fluig Academy.
 <table cellpadding="10">
   <tr>
     <td>
-      <a href="https://github.com/RodrigoBecker/fluig/blob/master/graficos.gif">
-        <img src="https://github.com/RodrigoBecker/fluig/blob/master/graficos.gif" alt="Screenshot 1">
+      <a href="https://github.com/fluig/widget-chart/blob/master/Imagens/graficos.gif">
+        <img src="https://github.com/fluig/widget-chart/blob/master/Imagens/graficos.gif" alt="Screenshot 1">
       </a>
     </td>
   </tr>
